@@ -31,7 +31,7 @@ Probability Theory:
   <img src="images/bayes theorem.png" alt="Bayes Theorem" width="450"/>
 </div>
 
-<div align="center">
+
   <img src="images/bayes theorem 2.png" alt="Bayes Theorem 2" width="450"/>
 </div>
 
