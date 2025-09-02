@@ -27,8 +27,11 @@
 <u>Linear transformation:</u>
 
 A transformation **L** is linear if it satisfies the following two properties:
-        1. L(a + b) = La + Lb
 
-        2. L(ca) = cL(a)
+1. L(a + b) = La + Lb
 
-            N.B. **a,b** are vectors and **c** is a scalar.
+2. L(ca) = cL(a)
+
+3. 
+
+4. N.B. **a,b** are vectors and **c** is a scalar.
