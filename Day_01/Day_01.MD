@@ -56,6 +56,6 @@ A transformation **L** is linear if it satisfies the following two properties:
       v1 and v2 are said to be linearly dependent for a scalar c, iff v1 = c. v2
 
 <p align="center"><img src="./images/8.png" width="450"></p>
-<p align="center"><img src="./images/9.png" width="450"></p>  
+<p align="center"><img src="./images/9.png" width="450"></p>
 
-Also, **det(M1M2) = det(M1)*det(M2)**
+Also, **det(M1M2) = det(M1)det(M2)**
