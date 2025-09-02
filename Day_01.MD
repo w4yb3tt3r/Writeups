@@ -1,8 +1,6 @@
 ## Day 01 - Complex Numbers and Linear Algebra Basics
 
-
-
-### Cheatsheet
+### Cheatsheet / Topics Covered
 
 - Vector
   
@@ -23,6 +21,8 @@
   - Matrix addition
   
   - Matrix multiplication
+
+
 
 <u>Linear transformation:</u>
 
