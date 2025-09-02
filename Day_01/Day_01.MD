@@ -21,8 +21,7 @@
   - Matrix addition
   
   - Matrix multiplication
-    ![](./images/1.png)
-    ![](./images/2.png)
+    <img title="" src="./images/1.png" alt="" data-align="center" width="287"><img title="" src="./images/2.png" alt="" width="486" data-align="center">
   
   **Linear Transformation:**
 
@@ -34,16 +33,20 @@ A transformation **L** is linear if it satisfies the following two properties:
    
    N.B. **a,b** are vectors and **c** is a scalar.
 
-![](./images/3.png)
-![](./images/4.png)3-dimension linear transformation
+<img title="" src="./images/3.png" alt="" data-align="center" width="400">
+<img title="" src="./images/4.png" alt="" width="411" data-align="center">
 
-![](./images/5.png)
 
-![](./images/6.png)
+
+3-dimension linear transformation
+
+<img src="./images/5.png" title="" alt="" data-align="center">
+
+<img src="./images/6.png" title="" alt="" data-align="center">
 
 Basis and Dimension
 
-![](./images/7.png)
+<img src="./images/7.png" title="" alt="" data-align="center">
 
 Determinant and linear dependence / independence
 
@@ -53,5 +56,4 @@ Determinant and linear dependence / independence
   
       v1 and v2 are said to be linearly dependent for a scalar c, iff v1 = c. v2
 
-![](./images/8.png)
-![](./images/9.png)Also, det(M1M2) = det(M1)*det(M2)
+<img src="./images/8.png" title="" alt="" data-align="center"><img src="./images/9.png" title="" alt="" data-align="center">Also, **det(M1M2) = det(M1)*det(M2)**
