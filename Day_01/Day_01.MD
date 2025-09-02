@@ -20,8 +20,10 @@
   
   - Matrix addition
   
-  - Matrix multiplication
-    <img title="" src="./images/1.png" alt="" data-align="center" width="287"><img title="" src="./images/2.png" alt="" width="486" data-align="center">
+  - Matrix multiplication  
+    
+    <p align="center"><img src="./images/1.png" width="287"></p>
+    <p align="center"><img src="./images/2.png" width="486"></p>
   
   **Linear Transformation:**
 
@@ -33,27 +35,26 @@ A transformation **L** is linear if it satisfies the following two properties:
    
    N.B. **a,b** are vectors and **c** is a scalar.
 
-<img title="" src="./images/3.png" alt="" data-align="center" width="400">
-<img title="" src="./images/4.png" alt="" width="411" data-align="center">
+<p align="center"><img src="./images/3.png" width="400"></p>
+<p align="center"><img src="./images/4.png" width="411"></p>
 
+### 3-dimension linear transformation
 
+<p align="center"><img src="./images/5.png"></p>
+<p align="center"><img src="./images/6.png"></p>
 
-3-dimension linear transformation
+### Basis and Dimension
 
-<img src="./images/5.png" title="" alt="" data-align="center">
+<p align="center"><img src="./images/7.png"></p>
 
-<img src="./images/6.png" title="" alt="" data-align="center">
+### Determinant and linear dependence / independence
 
-Basis and Dimension
-
-<img src="./images/7.png" title="" alt="" data-align="center">
-
-Determinant and linear dependence / independence
-
-- If the deteminant of a matrix is 0, that means the rows or columns are linearly dependent.
+- If the determinant of a matrix is 0, that means the rows or columns are linearly dependent.
   
   Also, suppose there are two vectors v1 and v2;
   
       v1 and v2 are said to be linearly dependent for a scalar c, iff v1 = c. v2
 
-<img src="./images/8.png" title="" alt="" data-align="center"><img src="./images/9.png" title="" alt="" data-align="center">Also, **det(M1M2) = det(M1)*det(M2)**
+<p align="center"><img src="./images/8.png"></p>
+<p align="center"><img src="./images/9.png"></p>  
+Also, **det(M1M2) = det(M1)*det(M2)**
