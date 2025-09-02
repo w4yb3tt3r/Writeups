@@ -21,8 +21,9 @@
   - Matrix addition
   
   - Matrix multiplication  
-  <p align="center"><img src="./images/1.png" width="450"></p>
-  <p align="center"><img src="./images/2.png" width="450"></p>
+    
+    <p align="center"><img src="./images/1.png" width="450"></p>
+    <p align="center"><img src="./images/2.png" width="450"></p>
   
   **Linear Transformation:**
 
@@ -56,4 +57,5 @@ A transformation **L** is linear if it satisfies the following two properties:
 
 <p align="center"><img src="./images/8.png" width="450"></p>
 <p align="center"><img src="./images/9.png" width="450"></p>  
+
 Also, **det(M1M2) = det(M1)*det(M2)**
