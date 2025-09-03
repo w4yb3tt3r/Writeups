@@ -28,3 +28,7 @@ Quantum Mechanics
 
 - Young's Double Slit Experiment
 
+Interesting vids:
+- https://www.youtube.com/watch?v=O6g-7rUgrdg
+- https://www.youtube.com/watch?v=M7Ry9W-T3fs
+- Quantization Explained -> https://www.youtube.com/watch?v=bChNhy1prD4
