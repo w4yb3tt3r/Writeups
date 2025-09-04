@@ -16,3 +16,12 @@
 </div>
 
 
+- Quantum circuits -> Reversible [unitary matrices]
+
+- Pauli X, Y, Z, I transformations
+- Hadamard Transformation
+- Cnot Gate
+
+- X gate : |0> <-> |1>
+
+Reference on logic gates (classical) - https://www.youtube.com/watch?v=INEtYZqtjTo
