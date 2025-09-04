@@ -1,4 +1,4 @@
-## Day 02 - Quantum vs Classical Mechanics
+## Day 03 - Quantum vs Classical Mechanics
 
 ### Cheatsheet / Topics Covered
 
