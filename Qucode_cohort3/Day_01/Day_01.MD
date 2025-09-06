@@ -8,6 +8,17 @@
   
   - Scalar Multiplication
 
+- Vector Space
+   
+    <p align="center"><img src="./images/10.png" width="450"></p>
+
+- Vector addition
+    <p align="center"><img src="./images/11.png" width="450"></p>
+
+- Scalar Multiplication
+    <p align="center"><img src="./images/12.png" width="450"></p>
+
+
 - Linear Combination
   
   - eg: i and j --> (3)i + (-4)j
